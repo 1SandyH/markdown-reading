@@ -20,7 +20,7 @@ How many do you need to create the largest heading? one pound gives largest head
 
 ###### How many do you need to create the smallest heading? the more pound signs the smaller, 6 signs is the smallest heading
 
-*** When making text bold or italicized for emphasis, it is best practice to use which symbol? for bold 2 asterisks are used, for italics 3 asterisks 
+*  When making text bold or italicized for emphasis, it is best practice to use which symbol? for bold 2 asterisks are used, for italics 3 asterisks 
 
 How do you create a link with Markdown? square brackets followed by parentheses
 
