@@ -24,6 +24,6 @@ How many do you need to create the largest heading? one pound gives largest head
 
 How do you create a link with Markdown? square brackets followed by parentheses
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown? -, *, or +
+- * + What are the three symbols you can use to create an unordered (bulleted) list with Markdown? -, *, or +
 
 [https://1SandyH.github.io/reading-notes/](https://1SandyH.github.io/reading-notes/)
